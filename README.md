@@ -15,25 +15,18 @@
   </a>
   <br>
   <br>
-  i'm some dude who's working on a Steam release > https://s.team/a/2338070
+  i'm a guy who's working on a Steam release > https://go.bl4ckdev.com/D2haSYo
   <br>
   i also have a website for quick access to all my important links > https://bl4ckdev.com
 
   <br>
   <br>
-  i mainly code in C# either making applications like Task Manager Pro using WPF, games like Airborne using Unity
+  i mainly code in C# either making applications like Task Manager Pro using WPF, games like Rigid or Airborne using Unity
   <br>
-  or console applications which i haven't published yet
-  <br> <br>
-  <b>sidenote: i mostly use GitHub for private repositories</b>
-  <br>
-
-  <h2 align="center"> Github Stats</h3>
+  and some fun projects like my programming language, IOzide
   
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bl4ckkdev&theme=github-dark&border_radius=30">
   <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bl4ckkdev&layout=compact&theme=dark">
 </p>
